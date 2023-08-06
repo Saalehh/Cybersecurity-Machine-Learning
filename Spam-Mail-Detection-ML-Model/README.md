@@ -26,7 +26,7 @@ The project is organized as follows:
 
 ## Sample Prediction
 
-Test the trained model on new email samples by providing the email content in the `sample_text` variable in `spam_detection.py`. The model will predict whether the email is spam or not.
+Test the trained model on new email samples by providing the email content in the `sample_text` variable in `spam-mail-detection-model.py`. The model will predict whether the email is spam or not.
 
 ## Contribution
 
